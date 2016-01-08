@@ -18,6 +18,11 @@ $ git init
 ```
 
 ##### Cloning
+<<<<<<< HEAD
 ```Shell
 $ git clone [url]
 ```
+=======
+
+#### Branching
+>>>>>>> 08bc650ae9379681749be9a0fb80463c0d1d6caa
