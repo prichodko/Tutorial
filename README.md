@@ -21,3 +21,5 @@ $ git init
 ```Shell
 $ git clone [url]
 ```
+
+To see more visit my personal [website](prichodko.github.io)
