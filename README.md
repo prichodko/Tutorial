@@ -5,21 +5,21 @@
 - topic 1
 - topic 2...
 
+#### Create a repository
+Create a repository on [GitHub](www.github.com).
 
-#### Getting a git repository
-- create a repository on [GitHub](www.github.com)
+#### Branching
+Branch is a copy of current repository, branching enables to work on different parts of repository at one time.
 
-##### Initializing
-- GitHub desktop - dragging a folder containing project files into the application & creating Git repository if necessary
-
-- Shell - in the project directory run command:
-```Shell
-$ git init
-```
+#### Commits
+Saved changes.
 
 ##### Cloning
 ```Shell
 $ git clone [url]
 ```
+
+#### Pull requests
+
 
 To see more visit my personal [website](http://prichodko.github.io).
