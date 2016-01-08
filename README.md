@@ -5,7 +5,6 @@
 - topic 1
 - topic 2...
 
-
 #### Create a repository
 Create a repository on [GitHub](www.github.com).
 
@@ -15,4 +14,12 @@ Branch is a copy of current repository, branching enables to work on different p
 #### Commits
 Saved changes.
 
+##### Cloning
+```Shell
+$ git clone [url]
+```
+
 #### Pull requests
+
+
+To see more visit my personal [website](http://prichodko.github.io).
