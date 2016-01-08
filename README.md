@@ -22,4 +22,4 @@ $ git init
 $ git clone [url]
 ```
 
-To see more visit my personal [website](prichodko.github.io)
+To see more visit my personal [website](http://prichodko.github.io)
