@@ -9,3 +9,5 @@
 $ git init
 ```
 ##### Cloning
+
+#### Branching
