@@ -14,12 +14,14 @@ Branch is a copy of current repository, branching enables to work on different p
 #### Commits
 Saved changes.
 
-##### Cloning
-```Shell
-$ git clone [url]
-```
-
 #### Pull requests
 
+#### Workflow
+##### Branches
+- new idea, new branch
+- master branch should be always deployable
+- descriptive name
+##### Add commits
+- commit in other words is adding, editing or deleting file 
 
 To see more visit my personal [website](http://prichodko.github.io).
