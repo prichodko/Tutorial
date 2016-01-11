@@ -21,7 +21,25 @@ Saved changes.
 - new idea, new branch
 - master branch should be always deployable
 - descriptive name
+
 ##### Add commits
-- commit in other words is adding, editing or deleting file 
+- commit in other words is adding, editing or deleting file
+- snapshot of repository
+
+Adding to a staging area
+```shell
+$ git add [-A .] <FILENAME>
+```
+Removing from a staging area
+```shell
+$ git reset <FILENAME>
+```
+
+#### Distributed workflows
+##### Centralized workflow
+One central repository, that can accept code, and everyone synchronizes work to it.
+##### Integration manager
+Each developer has its own public clone of the project and pushes changes to it. Then pulls changes to a main repository.
+
 
 To see more visit my personal [website](http://prichodko.github.io).
