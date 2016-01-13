@@ -10,4 +10,5 @@
 - [x] Recording Changes
 - [x] Viewing History
 - [x] Undoing Things
-- [x]
+- [x] Remotes
+- [x] Branches
