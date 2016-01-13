@@ -1,1 +1,3 @@
-\file.md
+- files that Git won't automatically add and show as being untracked
+- shell glob patterns
+- GitHub offers a predefined list of .gitignore files -  https://github.com/github/gitignore 
